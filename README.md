@@ -1,2 +1,2 @@
 # TableauVisualizations
-Visualizations I created with while learning to work with Tableau
+Visualizations I created while learning to work with Tableau
